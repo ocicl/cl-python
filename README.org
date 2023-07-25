@@ -1,0 +1,10 @@
+* cl-python
+
+An implementation of Python in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/metawilm/cl-python.git   |
+| commit  | 66eb75e  |
+| systems | cl-python |
+|---------+-------------------------------------------|
+
